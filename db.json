@@ -1,0 +1,19 @@
+{
+  "notas": [
+    {
+      "id": "1",
+      "text": "Nota editada",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "text": "Hacer ejercicio",
+      "completed": false
+    },
+    {
+      "id": "34de",
+      "text": "Adicion de nueva nota",
+      "completed": false
+    }
+  ]
+}
