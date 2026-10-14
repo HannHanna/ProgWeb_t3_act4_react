@@ -19,6 +19,6 @@ La función useState es un Hook que permite agregar estado interno a un componen
 
 ### d) Repositorio: https://github.com/HannHanna/ProgWeb_t3_act4_react
 
-### e)GitHub Pages: https://hannhanna.github.io/ProgWeb_t3_act4_react/
+### e) GitHub Pages: https://hannhanna.github.io/ProgWeb_t3_act4_react/
 
 
