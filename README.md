@@ -17,8 +17,8 @@ Es importante usar una **key** única para que React pueda identificar de manera
 ### c) Explica con tus propias palabras qué hace la función useState y da un ejemplo de dónde la usaste en tu mini aplicación.
 La función useState es un Hook que permite agregar estado interno a un componente funcional. Retorna un arreglo con dos elementos: el valor actual del estado y una función que permite actualizar dicho valor. En la lista de tareas se utilizó useState dentro del componente App.jsx para mantener el arreglo de tareas agregadas (const [tareas, setTareas] = useState(...)), y en TaskForm.jsx para controlar el texto introducido por el usuario en el campo de entrada (const [texto, setTexto] = useState('')).
 
-### d) Repositorio: [https://github.com/HannHanna/ProgWeb_t3_act4_react]
+### d) Repositorio: https://github.com/HannHanna/ProgWeb_t3_act4_react
 
-### e)GitHub Pages: []
+### e)GitHub Pages: https://hannhanna.github.io/ProgWeb_t3_act4_react/
 
 
